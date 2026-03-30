@@ -40,18 +40,6 @@
 
 ---
 
-### 📊 GitHub 数据
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 2%; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" style="width: 48%; min-width: 300px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&layout=compact&theme=radical" alt="Top Languages" style="width: 48%; min-width: 300px;"/>
-</div>
-
-<div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Minori-ty&theme=react-dark&hide_border=true" alt="Contribution Graph" style="width: 100%; max-width: 1000px;"/>
-</div>
-
----
-
 ### 🌟 重点项目
 | 项目名称 | 技术栈 | 简介 |
 |---------|--------|------|
