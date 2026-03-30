@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34" alt="visitor count" width="200"/>
+<img align="right" src="https://count.getloli.com/get/@:Pws-Owen?theme=rule34" alt="visitor count" width="200"/>
 
 # 👋 Hi, I'm Minori-ty
 ## Java工程师 — 十一
