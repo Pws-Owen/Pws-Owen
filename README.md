@@ -1,8 +1,11 @@
+HI!
+
 <div align="right">
 <img src="https://count.getloli.com/get/@:Owen?theme=rule34">
 </div>
 
 <br/>
+<hr>
 
 <div align="center" style="margin: 20px 0; display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
   <!-- 核心语言 -->
