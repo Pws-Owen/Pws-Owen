@@ -4,6 +4,14 @@
   <img src="https://count.getloli.com/get/@:Owen?theme=rule34" alt="访客统计"/>
 </div>
 
+<div align="center">
+  <img src="https://media1.tenor.com/m/6dYOMhwU8c4AAAAC/tom-and-jerry-typing.gif" width="600" alt="Tom and Jerry Coding">
+</div>
+
+<div align="center">
+  <h2>🚀 Working hard like Tom & Jerry</h2>
+</div>
+
 ## 📊 GitHub 数据
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 2%; justify-content: center; margin: 20px 0;">
