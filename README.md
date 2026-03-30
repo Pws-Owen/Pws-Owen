@@ -1,10 +1,3 @@
-# 👋 Hi, I'm 十一 | Owen
-> Java 后端工程师 | 全栈开发实践者 | 开源社区参与者  
-> 「吃饭睡觉敲代码，热爱技术与生活」
-
----
-
-### 🛠️ 技术栈
 <div align="center" style="margin: 20px 0; display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
   <!-- 核心语言 -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
