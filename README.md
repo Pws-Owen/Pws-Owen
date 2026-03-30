@@ -1,3 +1,5 @@
+<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+
 <div align="center" style="margin: 20px 0; display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
   <!-- 核心语言 -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
