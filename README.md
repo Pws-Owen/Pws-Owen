@@ -27,27 +27,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)
 
----
-
-## 📌 关于我
-
-- 🔭 当前方向：Java 后端开发、SpringBoot 微服务实践
-- 🌱 正在学习：Python 自动化、分布式系统、AI Agent
-- 💬 擅长领域：后端接口设计、数据库优化、前后端联调
-- 📫 联系方式：pwsszsdhh@163.com
-- ⚡ 生活趣味：Steam 游戏爱好者 | 开源项目讨论 | 摄影
-
----
-
-## 🌟 重点项目
-
-| 项目名称 | 技术栈 | 简介 |
-| --- | --- | --- |
-| 智慧养殖平台 | Java + SpringBoot + MySQL | 基于物联网的养殖数据监控与分析系统 |
-| 无纸化电子病历 | C# + .NET + SQL Server | 参与开发医院无纸化病历管理系统 |
-
----
-
 ## 📊 GitHub 数据
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=radical)
