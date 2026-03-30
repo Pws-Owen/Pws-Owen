@@ -2,6 +2,8 @@
 <img align="right" src="https://count.getloli.com/get/@:Owen?theme=rule34">
 </div>
 
+<br/>
+
 <div align="center" style="margin: 20px 0; display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
   <!-- 核心语言 -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
@@ -33,7 +35,7 @@
 - 🔭 **当前方向**：Java 后端开发、SpringBoot 微服务实践
 - 🌱 **正在学习**：Python 自动化、分布式系统、AI Agent
 - 💬 **擅长领域**：后端接口设计、数据库优化、前后端联调
-- 📫 **联系方式**：[pwsszsdhh@163.com] | [你的博客/知乎]
+- 📫 **联系方式**：pwsszsdhh@163.com
 - ⚡ **生活趣味**：Steam 游戏爱好者 | 开源项目讨论 | 摄影
 
 ---
