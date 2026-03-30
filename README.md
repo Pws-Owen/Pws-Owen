@@ -1,4 +1,6 @@
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+<div>
+<img align="right" src="https://count.getloli.com/get/@:Owen?theme=rule34">
+</div>
 
 <div align="center" style="margin: 20px 0; display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
   <!-- 核心语言 -->
@@ -53,8 +55,3 @@
 |---------|--------|------|
 | [智慧养殖平台](链接) | Java + SpringBoot + MySQL | 基于物联网的养殖数据监控与分析系统 |
 | [无纸化电子病历](链接) | C# + .NET + SQL Server | 参与开发医院无纸化病历管理系统 |
-
----
-
-### 📈 访客统计
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34" alt="Visitor Count" width="200"/>
