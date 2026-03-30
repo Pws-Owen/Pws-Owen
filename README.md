@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.tenor.com/Tw7pEocwk4sAAAAC/tom-and-jerry.gif" width="700" alt="Tom and Jerry 追逐动图"/>
+  <img src="[https://media.tenor.com/Tw7pEocwk4sAAAAC/tom-and-jerry.gif](https://media4.giphy.com/media/l0MYEqE3MWx07QEEk/giphy.gif)" width="700" alt="Tom and Jerry 追逐动图"/>
   <br/>
   <sub>⚡ 经典电影场景 | 欢乐永不停歇 ⚡</sub>
 </div>
