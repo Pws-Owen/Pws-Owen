@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <h2>🚀 Working hard like Tom & Jerry</h2>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb25lM2I1d2I1OWI1eDg1b25lM2I1d2I1OWI1eDg1JTI2cD0wMCZjdD1n/3o7qE1YN7aBOFPRw8E/giphy.gif" width="600" alt="Tom and Jerry">
 </div>
 
 ## 📊 GitHub 数据
