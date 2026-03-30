@@ -32,13 +32,6 @@
 
 ---
 
-### 🎨 技术视觉墙
-<div align="center" style="margin: 20px 0;">
-  <img src="https://picsum.photos/id/1/1200/400" alt="Tech Wall" style="width: 100%; max-width: 1000px; border-radius: 8px;"/>
-</div>
-
----
-
 ### 📌 关于我
 - 🔭 **当前方向**：Java 后端开发、SpringBoot 微服务实践
 - 🌱 **正在学习**：Python 自动化、分布式系统、AI Agent
